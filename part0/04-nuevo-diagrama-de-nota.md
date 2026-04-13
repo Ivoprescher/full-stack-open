@@ -1,6 +1,7 @@
-sequenceDiagram
-participant navegador
-participant servidor
+```mermaid
+    sequenceDiagram
+    participant navegador
+    participant servidor
 
     navegador->>servidor: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note
     activate servidor
@@ -31,3 +32,4 @@ participant servidor
     deactivate servidor
 
     Note right of navegador: El navegador ejecuta la función callback que muestra las notas.
+```
