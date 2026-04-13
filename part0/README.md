@@ -8,7 +8,7 @@ Esta carpeta contiene mis soluciones para la Parte 0 del curso Full Stack Open.
 
 Diagrama de secuencia que describe cómo se crea una nueva nota en una aplicación web tradicional.
 
-### 0.5 - Single Page App (SPA)
+### 0.5 - Single Page Application (SPA)
 
 Diagrama que muestra cómo funciona la versión SPA de la aplicación de notas.
 
